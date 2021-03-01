@@ -11,7 +11,12 @@
     "type": "git",
     "url": "git+https://github.com/gguardia7/learn-apis-and-microservices.git"
   },
-  "keywords": ["api","microservices","GitHub"],
+  "keywords": [
+    "api",
+    "microservices",
+    "GitHub",
+    "freecodecamp"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -19,6 +24,7 @@
   },
   "homepage": "https://github.com/gguardia7/learn-apis-and-microservices#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "moment": "^2.14.0"
   }
 }

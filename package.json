@@ -1,15 +1,24 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"author": "ghamal",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/gguardia7/learn-apis-and-microservices.git"
-	}
+  "name": "learn-apis-and-microservices",
+  "version": "1.0.0",
+  "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gguardia7/learn-apis-and-microservices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gguardia7/learn-apis-and-microservices/issues"
+  },
+  "homepage": "https://github.com/gguardia7/learn-apis-and-microservices#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

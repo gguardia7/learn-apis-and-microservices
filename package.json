@@ -1,7 +1,7 @@
 {
   "name": "learn-apis-and-microservices",
   "version": "1.0.0",
-  "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)",
+  "description": "Super duper project with GitHub version control",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

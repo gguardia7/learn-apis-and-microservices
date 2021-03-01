@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/gguardia7/learn-apis-and-microservices.git"
   },
-  "keywords": [],
+  "keywords": ["api","microservices","GitHub"],
   "author": "",
   "license": "ISC",
   "bugs": {
